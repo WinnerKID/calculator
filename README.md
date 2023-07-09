@@ -6,3 +6,4 @@ Simple calculator and easy to use for the terminal. To use you can type ```pytho
 - Substraction
 - Multiplication
 - Division
+- Factorial
